@@ -11,7 +11,7 @@ void init() {
   dependency.registerLazySingleton<RestService>(
     () => RestService(
         baseUrl:
-            'http://192.168.0.3:3000'), // Change the IP address according to your own computer IP address
+            'http://192.168.43.40:3000'), // Change the IP address according to your own computer IP address
   );
 
   dependency.registerLazySingleton<ContactService>(() => ContactService());

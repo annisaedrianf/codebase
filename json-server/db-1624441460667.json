@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Evan Allen",
+      "photo": "https://github.com/jumail-utm/test-images/blob/main/contact1.jpg?raw=true"
+    },
+    {
+      "id": 2,
+      "name": "Fred Bell",
+      "photo": "https://github.com/jumail-utm/test-images/blob/main/contact2.jpg?raw=true"
+    },
+    {
+      "id": 3,
+      "name": "Vernon Copper",
+      "photo": "https://github.com/jumail-utm/test-images/blob/main/contact3.jpg?raw=true"
+    },
+    {
+      "id": 4,
+      "name": "Norman Diaz",
+      "photo": "https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Duane Robertson",
+      "photo": "https://randomuser.me/api/portraits/men/78.jpg"
+    }
+  ]
+}
